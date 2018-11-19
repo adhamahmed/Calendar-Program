@@ -1,0 +1,6 @@
+Calendar:
+#1 24/12/2018 Christmas Eve
+#2 25/12/2018 Christmas Day
+#3 26/12/2018 Boxing Day
+#4 31/12/2018 New Years Eve
+#5 01/12/2019 New Years
