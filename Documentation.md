@@ -30,7 +30,7 @@ Algorithms
 Explanation of the algorithms behind your program
 
 ### Coding Standards
-Standard for the code you will be writting
+
 
 ## V. Research
 ## VI. Project Management
