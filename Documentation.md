@@ -1,8 +1,7 @@
-ExampleProjectRepo
-I. Initiative
+## I. Initiative
 Overview of the project itself
 
-II. Epics and User Stories
+## II. Epics and User Stories
 Epics
 Outlining the main fuctions of the game
 
@@ -17,8 +16,8 @@ As a player, I would _____
 How We Addressed The Requirements
 How will your planned product meet the user requirements
 
-III. Genre
-IV. Technical Details
+## III. Genre
+## IV. Technical Details
 Platform
 Programming Language/Enviroment
 Programming Challenges
@@ -30,11 +29,11 @@ Think of this as the method. How will you go about building your program?
 Algorithms
 Explanation of the algorithms behind your program
 
-Coding Standards
+### Coding Standards
 Standard for the code you will be writting
 
-V. Research
-VI. Project Management
+## V. Research
+## VI. Project Management
 Burndown Chart
 Example Burndown Chart
 
