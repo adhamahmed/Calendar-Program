@@ -29,9 +29,7 @@ Think of this as the method. How will you go about building your program?
 Algorithms
 Explanation of the algorithms behind your program
 
-### Coding Standards
-
-[create an anchor](#anchors-in-markdown)
+### [Coding Standards](#coding-standards)
 
 - For introductions - The introduction must be clear and concise, in a full English sentence to accurately describe the program and its functions
 
