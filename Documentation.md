@@ -31,6 +31,11 @@ Explanation of the algorithms behind your program
 
 ### Coding Standards
 
+- For introductions - The introduction must be clear and concise, in a full English sentence to accurately describe the program and its functions
+
+- For comments - All the comments are to be put on the line before the code, describing the section or line of code.
+
+- For variable names - All variable names are to use camel case to keep it consistent and easy to keep up with.
 
 ## V. Research
 ## VI. Project Management
