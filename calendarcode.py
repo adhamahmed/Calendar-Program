@@ -1,5 +1,5 @@
-# Calendar Program is a utility program set inside a command line interface that allows you to read, write, and edit entries in a
-# calender which is stored within a text file.
+# Calendar Program is a utility program set inside a command line interface that allows you 
+# to read, write, and edit entries in a calender which is stored within a text file.
 
 # Gets the user input
 userChoice = input ("Welcome! \n \nPlease choose an option using the numbers: \n 1 View all calendar entries \n 2 Write a new entry \n 3 Edit existing entries \n 4 Exit the program \n \nChoice: ")
