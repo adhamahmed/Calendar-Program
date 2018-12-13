@@ -37,6 +37,8 @@ Explanation of the algorithms behind your program
 
 - For variable names - All variable names are to use camel case to keep it consistent and easy to keep up with.
 
+- For code blocks - All blocks of code are to be marked by curly brackets. The opening bracket should be placed on the same line as the part it belongs to.
+
 ## V. Research
 ## VI. Project Management
 Burndown Chart
